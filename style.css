@@ -1,0 +1,23 @@
+body{
+    background-color:#373A3C;
+}
+#welcome-section{
+    background: red;
+    height: 100px;
+}
+#navbar{
+    background-color: #BE3144;
+}
+#navbar ul li a{
+    text-decoration: none;
+}
+#welcome-section h1{
+    text-align: center;
+    padding-top: 20px;
+    color: #ffffff;
+    font-size: 50px;
+}
+.project-tile h1 {
+    text-align: center;
+    color: #ffffff;
+}
